@@ -8,6 +8,7 @@
     <body>
 	<h2 style="color:yellow">篇章001:努力自学代码(C/C++ & Web)</h1>
         <a href="https://www.bilibili.com" target="_blank"> 从bilibili这里开始学习C/C++ or Web吧！！！</a>
+	<h2 style="color:yellow">篇章001:努力自学代码(C/C++ & Web)</h1>
 	<a href="https://docs.qq.com/aio/p/sc1aqb7vtdlo7y3?p=ZTZg1QKDAfEUmbDjFbq0Xz" target="_blank"> 从bilibili这里开始学习C/C++ or Web吧！！！</a>
     </body>
 </html>
